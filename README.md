@@ -4,7 +4,6 @@ Student developer with a strong interest in building real, functional software. 
 
 ### Focus Areas
 - Full-stack web development  
-- Game development with Unity
 - AI tooling and workflow automation  
 
 ### Current Work
@@ -13,7 +12,7 @@ Student developer with a strong interest in building real, functional software. 
 ### Tech Stack
 - JavaScript / TypeScript (Next.js, React)  
 - Java, C++, Python  
-- Unity, Git  
+- Docker, Git  
 - n8n, basic DevOps tooling  
 
 ### Links
