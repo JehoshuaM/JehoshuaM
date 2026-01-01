@@ -7,7 +7,7 @@ Student developer with a strong interest in building real, functional software. 
 - AI tooling and workflow automation  
 
 ### Current Work
-- Web Developer @ Scythe Client
+- Developer @ Scythe Client
 
 ### Tech Stack
 - JavaScript / TypeScript (Next.js, React)  
